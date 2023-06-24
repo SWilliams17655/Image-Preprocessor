@@ -1,4 +1,4 @@
-This is an image processing tool which includes a library of common image preprocessing functions I use. This includes edge detection, segmentation, corner detection, and optical flow to name a few. 
+Image-processor is an image processing tool which includes a library of common image preprocessing functions I use. This includes edge detection, segmentation, corner detection, and optical flow to name a few. 
 
 Purpose: This library is intended for image processing prior to use by a higher-level function. What each library returns is a processed image allowing the user to create a pre-processing pipe prior to a computer vision algorithm.
 
